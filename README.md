@@ -1,3 +1,3 @@
 # Snake-game
 
-Currently working on a game of Snake in Python 
+A game of snake/caterpillar made in Python
